@@ -14,5 +14,5 @@ jobs:
           # Use this username's contribution graph  
           user_name: jasineri
           # Text on contribution graph 
-          text: TAVARES
+          text: WELCOME
      - uses: jasineri/simple-push-action@v1
