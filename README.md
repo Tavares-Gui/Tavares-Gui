@@ -20,4 +20,9 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=tavares-gui&icon=2&color=11)](https://visitcount.itsvg.in)
+<div align="center"> 
+  
+  [![](https://visitcount.itsvg.in/api?id=tavares-gui&icon=2&color=11)](https://visitcount.itsvg.in)
+</div>
+
+
