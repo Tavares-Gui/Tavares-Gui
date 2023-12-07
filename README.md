@@ -6,6 +6,8 @@
 <h1 align="left">Hey, what's up?</h1>
 <h3 align="left">My name is Guilherme Rodrigues Tavares, I have 18 years old and I'm currently working at Bosch as a Dev Learner and I'm studying Software Engeneering at Positivo University.</h3>
 
+<br><br>
+
 ---
 
 # 📊 GitHub Stats:
