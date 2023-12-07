@@ -6,12 +6,15 @@
 <h1 align="left">Hey, what's up?</h1>
 <h3 align="left">My name is Guilherme Rodrigues Tavares, I have 18 years old and I'm currently working at Bosch as a Dev Learner and I'm studying Software Engeneering at Positivo University.</h3>
 
-<br><br>
+<br><br><br><br>
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tavares-gui&theme=neon&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tavares-gui&theme=neon&hide_border=false)
+
+<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tavares-gui&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
