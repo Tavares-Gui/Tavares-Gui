@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 <div align="center"> 
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=tavares-gui&theme=hacker&hide_border=false)</br>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=tavares-gui&theme=chartreuse-dark&hide_border=false)</br>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tavares-gui&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
