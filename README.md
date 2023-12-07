@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![gitartwork](gitartwork.svg)
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=tavares-gui&theme=midnight-purple&hide_border=false)<br/>
