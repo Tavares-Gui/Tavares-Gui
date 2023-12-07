@@ -3,7 +3,7 @@
 ---
 
 <img  height="300px" src="https://i.pinimg.com/originals/55/ba/ff/55baff26b6cc66fcd451633c26c181ca.jpg"/>
-<h1>Hey, what's up?</h1> <h4>My name is Guilherme Rodrigues Tavares, I'm 18 years old and I'm currently working at Bosch, I'm studying Software Engeneering at Positivo University.</h4>
+<h1>Hey, what's up?</h1> <h3>My name is Guilherme Rodrigues Tavares, I'm 18 years old and I'm currently working at Bosch as a Dev Learner and I'm studying Software Engeneering at Positivo University.</h3>
 
 ---
 
