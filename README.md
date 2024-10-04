@@ -23,6 +23,11 @@
 <div align="center"> 
   
   [![](https://visitcount.itsvg.in/api?id=tavares-gui&icon=2&color=11)](https://visitcount.itsvg.in)
+
+  <p align="center">
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+  </p>
 </div>
 
 
